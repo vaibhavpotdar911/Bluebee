@@ -1,3 +1,4 @@
 ## BlueBee
 
-Flutter application with following a login UI
+Flutter application with following:
+-a login UI
