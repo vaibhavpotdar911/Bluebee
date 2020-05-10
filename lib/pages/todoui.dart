@@ -1,11 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:todo/dbhelper.dart';
+import 'dbhelper.dart';
 
+// ignore: camel_case_types
 class todoui extends StatefulWidget {
   @override
   _todouiState createState() => _todouiState();
 }
 
+// ignore: camel_case_types
 class _todouiState extends State<todoui>{
 
   final dbhelper = Databasehelper.instance;

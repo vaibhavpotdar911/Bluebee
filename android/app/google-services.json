@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "410781050201",
+    "firebase_url": "https://bluebee-94c78.firebaseio.com",
+    "project_id": "bluebee-94c78",
+    "storage_bucket": "bluebee-94c78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410781050201:android:b69bd959c5e124581e1848",
+        "android_client_info": {
+          "package_name": "com.thebombaychip.bluebee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410781050201-bdk6et3kpu0u23kfj03rrm2poiih6155.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyUsbdbQuDoIGnCy_OF-QK-JvmpQtmlBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410781050201-bdk6et3kpu0u23kfj03rrm2poiih6155.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

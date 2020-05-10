@@ -1,4 +1,4 @@
-package com.thebombaychip.flutterapp
+package com.thebombaychip.bluebee
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
