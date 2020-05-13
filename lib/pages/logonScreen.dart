@@ -3,6 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/services.dart';
 import 'package:flutterapp/constants/constants.dart';
 import 'package:flutterapp/pages/todoui.dart';
+import 'package:flutterapp/pages/signupScreen.dart';
 
 
 void main() => runApp(LoginScreen());
@@ -240,7 +241,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
   Widget signUp() {
     return GestureDetector(
-      onTap: () =>  print('Signup button pressed.'),
+      onTap: () =>  Navigator.push(context, MaterialPageRoute(builder: (context) => SignupScreen())),
       child: RichText(
         text: TextSpan(
           children: [
