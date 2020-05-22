@@ -1,8 +1,9 @@
 ## BlueBee
 
-Flutter application with following:
--a login Interface
--a Logo
+Flutter application with following things accomplished:
+
+1. a login Interface with complete backend support
+2. a Logo
 
 Things to accomplish:
 
@@ -13,3 +14,4 @@ Things to accomplish:
 6. Messaging system
 7. Location Tracking -Google Maps API integration
 8. Keep track of money -Expense Calculator -Split Calculator
+9. Update login Interface with social login buttons.
