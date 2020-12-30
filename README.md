@@ -8,7 +8,7 @@ Flutter application with following things accomplished:
 Things to accomplish:
 
 1. HomePage UI and backend code
-2. To do list - debugging backend and UI update - source: https://www.youtube.com/watch?v=M3IwPbjOXmw
+2. To do list - debugging backend and UI update 
 3. Dark and light theme
 4. Contact page
 6. Messaging system
